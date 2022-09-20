@@ -13,6 +13,14 @@ function add(a,b){
 function mod(a,b){
     return a % b;
 }
+   
+function sub(a,b){
+    
+}
+
+function mul(a,b){
+    
+}
 
 console.log(div(10,5));
 
@@ -27,4 +35,9 @@ Practice 4 (accidentally commit a BIG MISTAKE)
 Practice 5 (accidentally commit a BIG MISTAKE)
     - git reset HEAD~           (resets to UNSTAGED)
     - git restore main.js
+*/
+
+/*
+Practice 6 (accidentally commit a BIG MISTAKE)
+    - git reset --hard HEAD~           (resets to previous commit)
 */
