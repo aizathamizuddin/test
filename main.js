@@ -15,7 +15,7 @@ function mod(a,b){
 }
    
 function sub(a,b){
-    
+    return a - b;
 }
 
 function mul(a,b){
