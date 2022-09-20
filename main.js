@@ -11,3 +11,11 @@ function div(a,b){
 }
 
 console.log(div(10,5));
+
+/*
+Practice 4 (accidentally commit a BIG MISTAKE)
+    - git reset --soft HEAD~
+    - git restore --staged main.js
+    - git restore main.js
+*/
+
